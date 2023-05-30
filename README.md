@@ -1,6 +1,19 @@
 ![Screenshot](./WarTime/img/png/logo-no-background.png)
 
 
+{ Left Out Legion } - > https://soundcloud.com/left-out-legion/
+
+[ est. 2023 ] -- >  
+
+[ WarTime Division ] - > 
+
+@acid-apostle &lt; - > https://soundcloud.com/acid-apostle/
+
+[ Homestead Division ] - >
+
+
+---------------------------------------------------------------
+
 ```
 
  (                              )                    (                                       
@@ -13,19 +26,6 @@
 |____| \___|   |_|    \__|   \___/   \_,_|  \__|    |____| \___|  \__, |   |_| \___/ |_||_|  
                                                                   |___/                      
 ```
-
-
-{ Left Out Legion } - > https://soundcloud.com/left-out-legion/
-
-[ est. 2023 ] -- >  
-
-[ WarTime Division ] - > 
-
-@acid-apostle &lt; - > https://soundcloud.com/acid-apostle/
-
-[ Homestead Division ] - >
-
-
 
 ---------------------------------------------------------------------------
 
