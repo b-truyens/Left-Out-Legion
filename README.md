@@ -1,7 +1,6 @@
 ![Screenshot](./WarTime/img/png/logo-no-background.png)
 
 
-```
 
  (                              )                    (                                       
  )\ )          (         )   ( /(              )     )\ )                                    
@@ -12,10 +11,10 @@
 | |__  / -_)   |  _| |  _|  | (_) | | || | |  _|    | |__  / -_)  / _` |   | | / _ \ | ' \)) 
 |____| \___|   |_|    \__|   \___/   \_,_|  \__|    |____| \___|  \__, |   |_| \___/ |_||_|  
                                                                   |___/                      
-```
 
 
-{ Left Out Legion } - >
+
+{ Left Out Legion } - > https://soundcloud.com/left-out-legion/
 
 [ est. 2023 ] -- >  
 
