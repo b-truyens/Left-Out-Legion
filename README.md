@@ -1,3 +1,7 @@
+![Screenshot](./img/png/logo-no-background.png)
+
+
+
 { Left Out Legion } - >
 
 [ est. 2023 ] -- >  
