@@ -1,4 +1,4 @@
-- { Left Out Legion } - > 
+{ Left Out Legion } - > 
 -- [ est. 2023 ] -- >  
 
 [ WarTime Division ] - > 
