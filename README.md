@@ -1,4 +1,4 @@
-![Screenshot](./WarTime/img/png/logo-no-background.png)
+![Logo](./WarTime/img/png/logo-no-background.png)
 
 
 { Left Out Legion } - > https://soundcloud.com/left-out-legion/
@@ -9,7 +9,7 @@
 
 @acid-apostle &lt; - > https://soundcloud.com/acid-apostle/
 
-![Screenshot](./Homestead/img/png/logo-no-background.png)
+![Logo](./Homestead/img/png/logo-no-background.png)
 
 [ Homestead Division ] - > https://soundcloud.com/homestead-division/
 
