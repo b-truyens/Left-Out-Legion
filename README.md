@@ -1,7 +1,6 @@
 ![Logo](./WarTime/img/png/logo-no-background.png)
 
-
-{ Left Out Legion } - > https://soundcloud.com/left-out-legion/
+{ [Left Out Legion](https://github.com/b-truyens/Left-Out-Legion) } - > https://soundcloud.com/left-out-legion/
 
 [ est. 2023 ] -- >  
 
@@ -9,10 +8,11 @@
 
 @acid-apostle &lt; - > https://soundcloud.com/acid-apostle/
 
+[ Pirate Party Division ] - > [Pirate Party Repository](https://github.com/b-truyens/Pirate-Party)
+
 ![Logo](./Homestead/img/png/logo-no-background.png)
 
 [ Homestead Division ] - > https://soundcloud.com/homestead-division/
-
 
 ---------------------------------------------------------------
 
